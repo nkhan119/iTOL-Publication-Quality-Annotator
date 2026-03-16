@@ -223,7 +223,7 @@ SPECIAL = {
     "P0A9F3|CYSB_ECOLI_C":            ("E. coli CysB",           "#0277BD", 1),  # blue   / circle
 }
 
-# Human-readable label for each special color (used in legends)
+# Label for each special color (used in legends)
 SPECIAL_COLOR_LABEL = {
     "#FF6F00": "E. coli O157 (special)",
     "#AD1457": "Shigella (special)",
