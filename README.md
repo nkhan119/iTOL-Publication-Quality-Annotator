@@ -130,10 +130,16 @@ reports all unclassified sequences to guide this process.
 
 ---
 
-## Author
+## Citation / Reuse
 
-Nadeem Khan, PhD
-Bioinformatician — INRS–Centre Armand-Frappier Santé-Biotechnologie, Laval, QC, Canada
-nkhan119@uottawa.ca | [@nkhan119](https://github.com/nkhan119)
+If you use or adapt this pipeline, please credit the author.
 
 ---
+
+## Author
+---
+
+**Nadeem Khan, PhD**
+Bioinformatician — INRS–Centre Armand-Frappier Santé-Biotechnologie, Laval, QC, Canada
+nkhan119@uottawa.ca
+[@nkhan119](https://github.com/nkhan119)
